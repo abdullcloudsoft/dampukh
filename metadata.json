@@ -1,0 +1,6 @@
+{
+  "name": "Dampukh Restaurant",
+  "description": "Visit Dampukh Restaurant at Liaquat Bagh, Murree Road, Rawalpindi for traditional Pakistani and Peshawari-inspired food. Explore the menu and contact us for orders and information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
